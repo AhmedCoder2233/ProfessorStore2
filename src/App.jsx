@@ -480,7 +480,7 @@ const ProfessorStore = () => {
             </motion.div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {[1, 2, 3, 4, 5, 6].map((item, i) => (
+              {[1, 2, 3, 4].map((item, i) => (
                 <motion.div
                   key={item}
                   variants={itemVariants}
