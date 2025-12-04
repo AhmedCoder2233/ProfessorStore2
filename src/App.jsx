@@ -151,18 +151,6 @@ const ProfessorStore = () => {
     {
       id: 2,
       type: "gif",
-      src: "banner.gif",
-      alt: "Minecraft Voting Banner 2"
-    },
-    {
-      id: 3,
-      type: "gif",
-      src: "banner3.gif",
-      alt: "Minecraft Voting Banner 3"
-    },
-    {
-      id: 4,
-      type: "gif",
       src: "banner4.gif",
       alt: "Minecraft Voting Banner 4"
     }
