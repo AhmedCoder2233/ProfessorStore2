@@ -829,7 +829,9 @@ const ProfessorStore = () => {
           >
             <div className="absolute inset-0 bg-red-500 rounded-full blur-lg opacity-70 animate-pulse"></div>
             <div className="relative bg-gradient-to-br from-red-600 to-orange-600 p-4 rounded-full shadow-2xl border-2 border-red-400">
+              <a href="https://discord.com/users/1293223501553205280">
               <MessageCircle className="w-8 h-8 text-white" />
+              </a>
             </div>
           </motion.div>
         </motion.div>
