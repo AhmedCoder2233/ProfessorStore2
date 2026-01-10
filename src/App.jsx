@@ -79,13 +79,13 @@ const ProfessorStore = () => {
       id: 1,
       title: "Epic Minecraft Trailer 2",
       description: "Cinematic server showcase",
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764379026/tailor2_pd5snp.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/WEBSITE_SAMPLE%20(1).mp4"
     },
     {
       id: 2,
       title: "Epic Minecraft Trailer 1",
       description: "Cinematic server showcase",
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378994/trailor1_bbtgla.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/blox_trailer%20(1).mp4"
     },
   ];
 
