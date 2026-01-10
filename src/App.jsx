@@ -92,35 +92,35 @@ const ProfessorStore = () => {
   const shortVideos = [
     {
       id: 1,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764377869/short1_jzxy60.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/short5.mp4"
     },
     {
       id: 2,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378029/short2_tdanwp.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/short4%20(1).mp4"
     },
     {
       id: 3,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378109/short3_m7ll1d.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/short2%20(1).mp4"
     },
     {
       id: 4,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378174/short4_eo5lgk.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/short6.mp4"
     },
     {
       id: 5,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378771/short6_s25ayq.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/short3%20(1).mp4"
     },
     {
       id: 6,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378816/short7_xlpu0w.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/Bloxblast_sonic.mp4"
     },
     {
       id: 7,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378834/short8_svfbu1.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/Episode_3_survival%20(1).mp4"
     },
     {
       id: 8,
-      videoUrl: "https://res.cloudinary.com/di7v37f9t/video/upload/v1764378923/short9_uc4mvg.mp4"
+      videoUrl: "https://auggnjfzvwwglmfzinir.supabase.co/storage/v1/object/public/ProfessorData/Sample%20(1).mp4"
     },
   ];
 
